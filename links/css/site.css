@@ -1,0 +1,66 @@
+html, body {
+	background-color: #000033;
+	color: #FFFFFF;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	text-align: center; 
+}
+#wrapper {
+	height: 170px; 
+	left: 50%; 
+	margin-left: -375px; 
+	margin-top: -85px; 
+	position: fixed; 
+	top: 50%;
+	width: 750px;
+}
+h1.header {
+	color: #FFF900;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+}
+table.links {
+	border-width: 0px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-top: 2px;
+	text-align: center;
+	width: 750px;
+}
+tr.links {
+	vertical-align: middle;
+}
+td.links {
+	background-color: #999999;
+	font-weight: bold;
+	height: 36px;
+	width: 250px;
+}
+form.linksForm {
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+}
+select.linksSelect {
+	background-color: #000033;
+	color: #FFFFFF;
+	width: 240px;
+}
